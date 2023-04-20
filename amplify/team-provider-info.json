@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify05b8ab7b5f164-staging-51546-authRole",
+      "UnauthRoleArn": "arn:aws:iam::270497361937:role/amplify-amplify05b8ab7b5f164-staging-51546-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::270497361937:role/amplify-amplify05b8ab7b5f164-staging-51546-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify05b8ab7b5f164-staging-51546-deployment",
+      "UnauthRoleName": "amplify-amplify05b8ab7b5f164-staging-51546-unauthRole",
+      "StackName": "amplify-amplify05b8ab7b5f164-staging-51546",
+      "StackId": "arn:aws:cloudformation:us-east-1:270497361937:stack/amplify-amplify05b8ab7b5f164-staging-51546/685dfa40-df3a-11ed-9d5c-0ec0742663a7",
+      "AmplifyAppId": "d334z22g5co0br"
+    },
+    "categories": {
+      "auth": {
+        "quizzlea6890754": {}
+      }
+    }
+  }
+}

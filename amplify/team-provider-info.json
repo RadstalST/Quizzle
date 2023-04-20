@@ -17,6 +17,9 @@
       },
       "api": {
         "quizzle": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
